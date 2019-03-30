@@ -59,5 +59,5 @@ do this:
 ---------------------------------------------------------------
 Project in Portfolio:
 
-![GitHub Logo](screenliri.png)
+![GitHub Logo](screenLiri.png)
 Thank you for reading.
