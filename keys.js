@@ -9,4 +9,4 @@ exports.omdb = {
 }
 exports.bandsintown = {
     id: process.env.BANDSINTOWN_ID
-}
+};
